@@ -4,6 +4,7 @@
 This project maps enterprise security controls across NIST CSF, 
 SOC 2 Type II, and PCI-DSS frameworks to identify overlapping 
 requirements and support compliance-driven security operations.
+![Compliance Framework Mapping](framework-mapping.png)
 
 Understanding how these frameworks relate to each other is critical 
 for security analysts working in enterprise environments, it allows 
